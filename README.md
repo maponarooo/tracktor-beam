@@ -52,7 +52,7 @@ nano ~/.bashrc
 
 Navigate to the directory you would like to place the worskpace and then run the following
 ```
-git clone https://github.com/ARK-Electronics/tracktor-beam.git
+git clone https://github.com/maponarooo/tracktor-beam
 ```
 Then navigate into the workspace:
 ```
