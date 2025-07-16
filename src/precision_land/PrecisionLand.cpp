@@ -5,7 +5,7 @@
 #include <Eigen/Core>
 #include <Eigen/Geometry>
 
-static const std::string kModeName = "PrecisionLandCustom";
+static const std::string kModeName = "ArUcoPrecisionLand";
 static const bool kEnableDebugOutput = true;
 
 using namespace px4_ros2::literals;
