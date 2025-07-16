@@ -56,7 +56,7 @@ Then navigate into the workspace:
 ```
 cd tracktor-beam
 ```
-Install OpenCV from source
+Install OpenCV from source (You have to check install_opencv.sh script for GPU compatibility!!!)
 ```
 ./install_opencv.sh 
 ```
