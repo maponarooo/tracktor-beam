@@ -8,5 +8,5 @@ https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html
 
 
 ### Video Walkthrough
-[Watch the video on YouTube](https://youtu.be/3BJB3OAo3tw?si=rJiTScTOzJzZjN2t)
+[Watch the video on YouTube]()
 
